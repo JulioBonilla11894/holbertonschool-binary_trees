@@ -1,2 +1,3 @@
 Creating new repository
-holberton-binary_trees
+holberton-binary trees
+Creating files for project
