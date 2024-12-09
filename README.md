@@ -1,2 +1,2 @@
-# holbertonschool-binary_trees
 Creating new repository
+holberton-binary_trees
